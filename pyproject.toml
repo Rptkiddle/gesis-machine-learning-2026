@@ -1,0 +1,28 @@
+[project]
+name = "gesis-machine-learning-2026"
+version = "2026.0"
+description = "Environment for the GESIS course 'Introduction to Machine Learning for Text Analysis with Python' (2026 edition)"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    # scientific base
+    "numpy>=1.26",
+    "scipy>=1.11",
+    "pandas>=2.1",
+    "matplotlib>=3.8",
+    "scikit-learn>=1.4",
+    "nltk>=3.8",
+    # unsupervised ML (topic modelling)
+    "bertopic>=0.16",
+    "sentence-transformers>=3.0",
+    "datasets>=2.19",
+    # supervised ML (transformer fine-tuning)
+    "torch>=2.2",
+    "transformers>=4.48",
+    "accelerate>=0.30",
+    # notebook environment
+    "jupyterlab>=4.1",
+    "ipywidgets>=8.1",
+    "nbformat>=5.9",
+    "hf-xet>=1.0",
+    "seaborn>=0.13",
+]
