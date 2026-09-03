@@ -11,6 +11,7 @@ dependencies = [
     "matplotlib>=3.8",
     "scikit-learn>=1.4",
     "nltk>=3.8",
+    "spacy>=3.7",
     # unsupervised ML (topic modelling)
     "bertopic>=0.16",
     "sentence-transformers>=3.0",
