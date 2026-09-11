@@ -46,5 +46,7 @@ __pycache__/
 # Data (never commit)
 data
 
+#AI
 copilot-instructions.md
+.claude/
 
