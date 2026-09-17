@@ -55,7 +55,10 @@ Each notebook can be opened directly in Google Colab using the badge links below
 
 ### Day 4
 
-*Materials for this day will appear here in the run-up to the course.*
+| Notebook | Colab |
+|----------|-------|
+| [transformers_bert_overfitting](exercises/day4/exercise-AM/transformers_bert_overfitting.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rptkiddle/gesis-machine-learning-2026/blob/main/exercises/day4/exercise-AM/transformers_bert_overfitting.ipynb) |
+| [transformers_bert_crossvalidation](exercises/day4/exercise-AM/transformers_bert_crossvalidation.ipynb) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rptkiddle/gesis-machine-learning-2026/blob/main/exercises/day4/exercise-AM/transformers_bert_crossvalidation.ipynb) |
 
 ### Day 5
 
